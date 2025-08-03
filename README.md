@@ -55,6 +55,7 @@ npm run dev  # or npm run build && npm run preview
 cd ../server
 npm install
 npm run dev  # or node src/index.js
+```
 
 ⏱️ How the Cron Job Works
 
