@@ -65,9 +65,9 @@ npm run dev  # or node src/index.js
     This ensures your dashboard always reflects the most recent market data.
 
 📸 Screenshots
-![HistoryDatabase](https://github.com/Ashdeep-Singh-97/cryptoTracker/blob/main/assets/HistoryDatabase.png)
+[https://github.com/Ashdeep-Singh-97/cryptoTracker/blob/main/assets/HistoryDatabase.png](https://github.com/Ashdeep-Singh-97/cryptoTracker/blob/main/assets/HistoryDatabase.png)
 ✅ Cron code
-![CronCode](https://github.com/Ashdeep-Singh-97/cryptoTracker/blob/main/assets/CronCode.png)
+[https://github.com/Ashdeep-Singh-97/cryptoTracker/blob/main/assets/CronCode.png](https://github.com/Ashdeep-Singh-97/cryptoTracker/blob/main/assets/CronCode.png)
 
 ✅ Deliverables Summary
 
