@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Ashdeep-Singh-97/cryptoFrontend.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Ashdeep-Singh-97/cryptoBackend.git
