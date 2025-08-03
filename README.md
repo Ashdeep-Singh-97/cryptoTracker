@@ -67,8 +67,12 @@ npm run dev  # or node src/index.js
 
 📸 Screenshots
 [https://github.com/Ashdeep-Singh-97/cryptoTracker/blob/main/assets/HistoryDatabase.png](https://github.com/Ashdeep-Singh-97/cryptoTracker/blob/main/assets/HistoryDatabase.png)
+![HistoryDatabase](assets/HistoryDatabase.png)
+
+
 ✅ Cron code
 [https://github.com/Ashdeep-Singh-97/cryptoTracker/blob/main/assets/CronCode.png](https://github.com/Ashdeep-Singh-97/cryptoTracker/blob/main/assets/CronCode.png)
+![CronCode](assets/CronCode.png)
 
 ✅ Deliverables Summary
 
