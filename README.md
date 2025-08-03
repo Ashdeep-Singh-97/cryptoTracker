@@ -60,7 +60,7 @@ npm run dev  # or node src/index.js
 
     The backend contains a cron job using node-cron.
 
-    It runs at fixed intervals (as defined in the code) to fetch the latest cryptocurrency prices and store them in the MongoDB database. We call the function responsible for updating prices using it's controller and run it periodically :
+    It runs at fixed intervals (as defined in the code) to fetch the latest cryptocurrency prices and store them in the MongoDB database. We call the function responsible for updating prices using the controller and run it periodically.
 
     This ensures your dashboard always reflects the most recent market data.
 
