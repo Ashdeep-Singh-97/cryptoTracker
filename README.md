@@ -65,9 +65,9 @@ npm run dev  # or node src/index.js
     This ensures your dashboard always reflects the most recent market data.
 
 📸 Screenshots
-![HistoryDatabase](./assets/HistoryDatabase.png)
+![HistoryDatabase](assets/HistoryDatabase.png)
 ✅ Sample Database Data
-![CronCode](./assets/CronCode.png)
+![CronCode](assets/CronCode.png)
 
 ✅ Deliverables Summary
 
